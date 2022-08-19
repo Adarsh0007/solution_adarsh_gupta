@@ -41,5 +41,5 @@ one day, there are 24 periods and they are broken down as follows (in HH:MM:SS f
 
 **Note**: 
 
-- Not used any library like moment.js to calculate differnce betweeen two given dates instead written own function with name **getTimeDifference**
+- Not used any library like moment.js to calculate diffrence between two given dates instead written own function with name **getTimeDifference**
 - User can copy paste their input  array into **clicks.json** file first then run command to check output.
