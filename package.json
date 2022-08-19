@@ -1,0 +1,15 @@
+{
+  "name": "assignment-gartner",
+  "version": "1.0.0",
+  "description": "This is solution of gartner take home assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "solution": "node index.js"
+  },
+  "author": "Adarsh Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
