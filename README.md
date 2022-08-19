@@ -8,7 +8,7 @@ period, only place the earliest click into the result set.
 3. If there are more than 10 clicks for an IP in the overall array of clicks, do not include any
 of those clicks in the result set.
 
-# Expcted Soution
+# Expected Solution
 
 The result set should be stored in an array of objects. Each object should represent a click. The expected result set should be a subset of the original array.
 
@@ -26,7 +26,7 @@ one day, there are 24 periods and they are broken down as follows (in HH:MM:SS f
 22:00:00 - 22:59:59 (period 23) <br> 
 23:00:00 - 23:59:59 (period 24)
 
-# Steps to run soultion and test
+# Steps to run solution and test
 
 - Code is written in es6
 - First move to the project directory 
