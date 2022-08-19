@@ -18,9 +18,13 @@ The result set should be stored in an array of objects. Each object should repre
 - Duplicate clicks are clicks that have the same IP address, regardless of timestamp or
 click amount.
 - Click periods are defined as the one hour spans that start at the top of the hour. So, in
-one day, there are 24 periods and they are broken down as follows (in HH:MM:SS format):
-00:00:00 - 00:59:59 (period 1) 01:00:00 - 01:59:59 (period 2) 02:00:00 - 02:59:59 (period 3) ...
-22:00:00 - 22:59:59 (period 23) 23:00:00 - 23:59:59 (period 24)
+one day, there are 24 periods and they are broken down as follows (in HH:MM:SS format): <br>
+00:00:00 - 00:59:59 (period 1) <br> 
+01:00:00 - 01:59:59 (period 2) <br>
+02:00:00 - 02:59:59 (period 3) <br>
+...
+22:00:00 - 22:59:59 (period 23) <br> 
+23:00:00 - 23:59:59 (period 24)
 
 # Steps to run soultion and test
 
