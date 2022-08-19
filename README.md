@@ -22,7 +22,7 @@ one day, there are 24 periods and they are broken down as follows (in HH:MM:SS f
 00:00:00 - 00:59:59 (period 1) <br> 
 01:00:00 - 01:59:59 (period 2) <br>
 02:00:00 - 02:59:59 (period 3) <br>
-...
+... <br>
 22:00:00 - 22:59:59 (period 23) <br> 
 23:00:00 - 23:59:59 (period 24)
 
